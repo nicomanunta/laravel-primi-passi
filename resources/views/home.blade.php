@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="text-center"></h1>
+                <h1 class="text-center">{{ $hello }} {{$name}} {{$surname}}</h1>
             </div>
         </div>
     </div>
